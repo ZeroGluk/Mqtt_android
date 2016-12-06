@@ -1,0 +1,7 @@
+#Tue Dec 06 14:27:51 MSK 2016
+base.0=D\:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_675688a2ac79883e72d0aade4bed6cd13a381e4e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f14e705bb3163c611141d509635875b98d3576c\\classes.dex
+base.1=D\:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f14e705bb3163c611141d509635875b98d3576c
+file.0=D\:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_675688a2ac79883e72d0aade4bed6cd13a381e4e\\classes.dex

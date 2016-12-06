@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    }
+]

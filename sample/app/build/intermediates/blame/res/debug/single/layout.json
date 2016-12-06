@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_text_view.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\list_view_text_view.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connection_details.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\activity_connection_details.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\client_connections.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\client_connections.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\connection_text_view.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\connection_text_view.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filedialogitem.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\filedialogitem.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_connection.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\activity_new_connection.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advanced.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\activity_advanced.xml"
+    },
+    {
+        "merged": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subscribe.xml",
+        "source": "D:\\selfwork\\mqtt_android\\android-mqtt-quickstart\\app\\src\\main\\res\\layout\\activity_subscribe.xml"
+    }
+]
